@@ -1,4 +1,4 @@
-data = list(map(int,input("Masukkan sembarang angka anda: ").split()))
+data = list(map(int,input("Masukkan angka - angka anda: ").split()))
 
 n = len(data)
 for i in range(n):
