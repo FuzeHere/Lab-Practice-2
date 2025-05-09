@@ -1,5 +1,5 @@
 #Bubble Sort
-data = [5, 3, 6, 1, 4]
+data = [5, 3, 6, 1, 7]
 
 n = len(data)
 for i in range(n):
