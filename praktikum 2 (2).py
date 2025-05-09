@@ -25,7 +25,7 @@ def binary_search(data, target):
 
 target = 3
 
-pilihan = int(input("Apa yang ingin kamu cari? 1 untuk sort dan kalau bukan 2: "))
+pilihan = int(input("Apa yang ingin kamu cari? 1 untuk sort dan kalau search 2: "))
 if pilihan == 1:
     hasil = binary_search(data, target)
     if hasil != -1:
